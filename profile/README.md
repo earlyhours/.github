@@ -1,90 +1,84 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/earlyhours/.github/main/profile/assets/earlyhours.svg" alt="Early Hours. After dark. Before dawn. Software worth staying up for." width="100%">
-</p>
-
-<p align="center">
-  <a href="https://also.codes/"><img src="https://img.shields.io/badge/WEBSITE-↗-ffb57b?style=for-the-badge&labelColor=17131f" alt="Website"></a>
-  &nbsp;
-  <a href="https://github.com/orgs/earlyhours/repositories"><img src="https://img.shields.io/badge/EXPLORE_THE_CODE-↗-cdb9ef?style=for-the-badge&labelColor=17131f" alt="Explore the code"></a>
-  &nbsp;
-  <a href="https://github.com/earlyhours/OpenFrame-clean/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/BUILD_WITH_US-↗-b6d9ca?style=for-the-badge&labelColor=17131f" alt="Build with us"></a>
+  <img src="https://raw.githubusercontent.com/earlyhours/.github/main/profile/assets/earlyhours.svg?v=3" alt="Early Hours. Thoughtful software. Built in the early hours." width="100%">
 </p>
 
 <br>
 
-# Built late. Out in the open.
+<h1 align="center">Meet your next project.</h1>
 
-Early Hours is an independent software org from India. Explore our work, find your next project, or build with us.
-
-## [also.codes ↗](https://also.codes/)
-
-**Start here.** Visit also.codes to explore beyond this GitHub page.
-
-<p>
-  <a href="https://also.codes/"><img src="https://img.shields.io/badge/GO_TO_ALSO.CODES-17131f?style=for-the-badge&logo=firefoxbrowser&logoColor=ffb57b" alt="Go to also.codes"></a>
+<p align="center">
+  We're an independent software org from India.<br>
+  Explore our work at also.codes, or get into the code below.
 </p>
 
+<p align="center">
+  <a href="https://also.codes/"><img src="https://img.shields.io/badge/Explore_also.codes_↗-f6b697?style=for-the-badge&labelColor=f6b697" alt="Explore also.codes"></a>
+</p>
+
+<br>
 <br>
 
 ---
 
-## Your camera roll deserves a home.
+<sub>01 / FEATURED PROJECT</sub>
 
-### OpenFrame
+# OpenFrame
 
-A self-hosted photo and video library built on [Immich](https://github.com/immich-app/immich). We're working on performance, clearer uploads, and an interface with its own identity.
+### Your photos. Your videos. Your server.
 
-**[Source code ↗](https://github.com/earlyhours/OpenFrame-clean)** &nbsp; · &nbsp; **[Project website ↗](https://immich.yash0.in)** &nbsp; · &nbsp; **[Performance lab ↗](https://immich.yash0.in/performance.html)**
+A self-hosted photo and video library built on [Immich](https://github.com/immich-app/immich). We're working on performance, clearer upload progress, and an interface with its own identity.
+
+**[Discover OpenFrame ↗](https://immich.yash0.in)** &nbsp; · &nbsp; [Browse the source](https://github.com/earlyhours/OpenFrame-clean)
 
 <br>
 
 <details>
-<summary><b>＋ &nbsp; Open the workbench</b></summary>
+<summary>Inside OpenFrame</summary>
 
 <br>
 
-| In the project | What it does |
-| :--- | :--- |
-| Upload progress | Combined progress, bytes processed, and upload speed. |
-| Visual identity | OpenFrame branding and self-hosted Geist typography. |
-| Performance work | Server changes with published benchmarks and raw evidence. |
-| Compatibility | Work builds on Immich's data model, API, and mobile clients. |
+- Combined upload progress with bytes processed and upload speed.
+- OpenFrame branding and self-hosted Geist typography.
+- Server performance changes with published benchmarks and raw evidence.
 
-[Read the project README for shipped changes and limitations →](https://github.com/earlyhours/OpenFrame-clean#what-has-shipped)
+[See shipped changes and their limitations →](https://github.com/earlyhours/OpenFrame-clean#what-has-shipped)
 
 </details>
 
 <details>
-<summary><b>＋ &nbsp; Show me the receipts</b></summary>
+<summary>Benchmarks & evidence</summary>
 
 <br>
 
-Performance claims should come with something you can inspect.
+Inspect the setup, results, and limitations behind the performance work. The project distinguishes synthetic benchmarks from end-to-end experiments.
 
-OpenFrame publishes the benchmark setup, results, and limitations. Synthetic measurements and end-to-end experiments answer different questions. The project documents both.
-
-[Inspect the benchmarks →](https://immich.yash0.in/performance.html)  
-[Inspect the HTTP comparison →](https://immich.yash0.in/http-comparison)
+[Performance benchmarks →](https://immich.yash0.in/performance.html)<br>
+[HTTP comparison →](https://immich.yash0.in/http-comparison)
 
 </details>
-
-<details>
-<summary><b>＋ &nbsp; I want in</b></summary>
 
 <br>
+<br>
 
-Bring a bug report, a UX improvement, a performance experiment, or a pull request. AI-assisted contributions are welcome on OpenFrame.
+---
 
-Read what you submit. Run the relevant checks. Measure a speedup before claiming one. Give upstream its credit.
+<sub>02 / OPEN INVITATION</sub>
 
-[Read the contribution guide →](https://github.com/earlyhours/OpenFrame-clean/blob/main/CONTRIBUTING.md)
+# Make something better.
 
-</details>
+A bug fix. A clearer interaction. A measured speedup. Contributions to OpenFrame are welcome, including AI-assisted work.
 
+Read what you submit, run the relevant checks, and include measurements when you claim a performance improvement.
+
+**[Find your first contribution ↗](https://github.com/earlyhours/OpenFrame-clean/blob/main/CONTRIBUTING.md)**
+
+<br>
 <br>
 
 ---
 
 <p align="center">
-  <sub><a href="https://also.codes/">ALSO.CODES</a> &nbsp; / &nbsp; EARLY HOURS &nbsp; / &nbsp; INDIA</sub>
+  <a href="https://also.codes/">also.codes</a> &nbsp; / &nbsp;
+  <a href="https://github.com/orgs/earlyhours/repositories">All repositories</a>
 </p>
+<p align="center"><sub>EARLY HOURS · BUILT IN INDIA</sub></p>
