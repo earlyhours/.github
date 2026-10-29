@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="680" viewBox="0 0 1600 680">
+<defs>
+<linearGradient id="sky" x2="0" y2="1"><stop stop-color="#11101b"/><stop offset="1" stop-color="#291c36"/></linearGradient>
+<linearGradient id="sun" x2="0" y2="1"><stop stop-color="#ffe7b0"/><stop offset="1" stop-color="#ff663e"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#f76547" stop-opacity=".3"/><stop offset="1" stop-color="#f76547" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse"><path d="M64 0H0V64" fill="none" stroke="#f9ba92" stroke-opacity=".07"/></pattern>
+<clipPath id="disc"><circle cx="1260" cy="330" r="210"/></clipPath>
+</defs>
+<rect width="1600" height="680" fill="url(#sky)"/>
+<rect width="1600" height="680" fill="url(#grid)"/>
+<ellipse cx="1260" cy="360" rx="470" ry="390" fill="url(#glow)"/>
+<circle cx="1260" cy="330" r="210" fill="url(#sun)"/>
+<g clip-path="url(#disc)" stroke="#211827"><path d="M1000 360H1510" stroke-width="5"/><path d="M1000 385H1510" stroke-width="8"/><path d="M1000 415H1510" stroke-width="12"/><path d="M1000 450H1510" stroke-width="17"/><path d="M1000 490H1510" stroke-width="23"/><path d="M1000 535H1510" stroke-width="30"/></g>
+<g fill="#f7eddf" font-family="Arial,Helvetica,sans-serif">
+<text x="80" y="89" font-family="monospace" font-size="19" letter-spacing="4">EARLY HOURS / INDEPENDENT SOFTWARE</text>
+<text x="72" y="300" font-size="148" font-weight="900" letter-spacing="-9">AFTER DARK.</text>
+<text x="72" y="451" font-size="148" font-weight="900" letter-spacing="-9">BEFORE DAWN.</text>
+<text x="82" y="521" font-size="25" fill="#c3b3bf">Software worth staying up for.</text>
+</g>
+<path d="M80 582H1520" stroke="#d5b7b9" stroke-opacity=".3"/>
+<circle cx="89" cy="625" r="5" fill="#ffb57b"/>
+<g fill="#cfbac8" font-family="monospace" font-size="16" letter-spacing="2"><text x="108" y="631">BUILT IN INDIA</text><text x="1220" y="631">05:00 / STILL BUILDING</text></g>
+</svg>
