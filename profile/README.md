@@ -3,37 +3,43 @@
 </p>
 
 <p align="center">
-  <a href="https://also.codes/">also.codes ↗</a> &nbsp; &nbsp; / &nbsp; &nbsp;
-  <a href="https://github.com/orgs/earlyhours/repositories">Repositories</a> &nbsp; &nbsp; / &nbsp; &nbsp;
-  <a href="https://github.com/earlyhours/OpenFrame-clean/blob/main/CONTRIBUTING.md">Contribute</a>
+  <a href="https://also.codes/"><img src="https://img.shields.io/badge/WEBSITE-↗-ffb57b?style=for-the-badge&labelColor=17131f" alt="Website"></a>
+  &nbsp;
+  <a href="https://github.com/orgs/earlyhours/repositories"><img src="https://img.shields.io/badge/EXPLORE_THE_CODE-↗-cdb9ef?style=for-the-badge&labelColor=17131f" alt="Explore the code"></a>
+  &nbsp;
+  <a href="https://github.com/earlyhours/OpenFrame-clean/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/BUILD_WITH_US-↗-b6d9ca?style=for-the-badge&labelColor=17131f" alt="Build with us"></a>
 </p>
 
 <br>
 
-## A little less friction. A little more craft.
+# Built late. Out in the open.
 
-We're Early Hours, an independent software org from India. We build software and work on the details that make it better to use.
+Early Hours is an independent software org from India. Explore our work, find your next project, or build with us.
+
+## [also.codes ↗](https://also.codes/)
+
+**Start here.** Visit also.codes to explore beyond this GitHub page.
+
+<p>
+  <a href="https://also.codes/"><img src="https://img.shields.io/badge/GO_TO_ALSO.CODES-17131f?style=for-the-badge&logo=firefoxbrowser&logoColor=ffb57b" alt="Go to also.codes"></a>
+</p>
 
 <br>
 
-### 01 &nbsp; / &nbsp; also.codes
+---
 
-Our corner of the internet. Start at **[also.codes ↗](https://also.codes/)** and explore our work beyond GitHub.
+## Your camera roll deserves a home.
 
-<br>
+### OpenFrame
 
-### 02 &nbsp; / &nbsp; OpenFrame
+A self-hosted photo and video library built on [Immich](https://github.com/immich-app/immich). We're working on performance, clearer uploads, and an interface with its own identity.
 
-**Your camera roll deserves a home.**
-
-A self-hosted photo and video library built on [Immich](https://github.com/immich-app/immich). Our work focuses on performance, clearer uploads, and an interface with its own identity.
-
-[Explore the source ↗](https://github.com/earlyhours/OpenFrame-clean) &nbsp; · &nbsp; [Visit the project ↗](https://immich.yash0.in) &nbsp; · &nbsp; [Read the benchmarks ↗](https://immich.yash0.in/performance.html)
+**[Source code ↗](https://github.com/earlyhours/OpenFrame-clean)** &nbsp; · &nbsp; **[Project website ↗](https://immich.yash0.in)** &nbsp; · &nbsp; **[Performance lab ↗](https://immich.yash0.in/performance.html)**
 
 <br>
 
 <details>
-<summary><b> Open the workbench</b></summary>
+<summary><b>＋ &nbsp; Open the workbench</b></summary>
 
 <br>
 
@@ -49,7 +55,7 @@ A self-hosted photo and video library built on [Immich](https://github.com/immic
 </details>
 
 <details>
-<summary><b> Measurements & evidence</b></summary>
+<summary><b>＋ &nbsp; Show me the receipts</b></summary>
 
 <br>
 
@@ -63,7 +69,7 @@ OpenFrame publishes the benchmark setup, results, and limitations. Synthetic mea
 </details>
 
 <details>
-<summary><b> Build with us</b></summary>
+<summary><b>＋ &nbsp; I want in</b></summary>
 
 <br>
 
