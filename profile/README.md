@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/earlyhours/.github/main/profile/assets/earlyhours.svg?v=3" alt="Early Hours. Thoughtful software. Built in the early hours." width="100%">
+  <img src="https://raw.githubusercontent.com/earlyhours/.github/main/profile/assets/earlyhours-dawn.png" alt="Early Hours. Software worth staying up for." width="100%">
 </p>
 
 <br>
